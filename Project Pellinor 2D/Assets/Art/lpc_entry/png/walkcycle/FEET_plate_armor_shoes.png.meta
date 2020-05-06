@@ -1,7 +1,181 @@
 fileFormatVersion: 2
 guid: 49ad9e815e9e24a5480134c60e54d8d7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1685072277283826823
+    second: FEET_plate_armor_shoes_0
+  - first:
+      213: -7814407123825760307
+    second: FEET_plate_armor_shoes_1
+  - first:
+      213: -8047452345876514015
+    second: FEET_plate_armor_shoes_2
+  - first:
+      213: 7075840216074543281
+    second: FEET_plate_armor_shoes_3
+  - first:
+      213: 8484624091969318177
+    second: FEET_plate_armor_shoes_4
+  - first:
+      213: -6479473633111966569
+    second: FEET_plate_armor_shoes_5
+  - first:
+      213: 5573031032331163599
+    second: FEET_plate_armor_shoes_6
+  - first:
+      213: -8335757461453984542
+    second: FEET_plate_armor_shoes_7
+  - first:
+      213: 3698324098310447416
+    second: FEET_plate_armor_shoes_8
+  - first:
+      213: -1554923414667060488
+    second: FEET_plate_armor_shoes_9
+  - first:
+      213: -1256810034765819463
+    second: FEET_plate_armor_shoes_10
+  - first:
+      213: 2719882680827795582
+    second: FEET_plate_armor_shoes_11
+  - first:
+      213: 2703967603057148910
+    second: FEET_plate_armor_shoes_12
+  - first:
+      213: 5726863494316113292
+    second: FEET_plate_armor_shoes_13
+  - first:
+      213: -7754038441814070446
+    second: FEET_plate_armor_shoes_14
+  - first:
+      213: 2589729549951353517
+    second: FEET_plate_armor_shoes_15
+  - first:
+      213: -1710331035579981103
+    second: FEET_plate_armor_shoes_16
+  - first:
+      213: -921029951097638966
+    second: FEET_plate_armor_shoes_17
+  - first:
+      213: 1460226216868962883
+    second: FEET_plate_armor_shoes_18
+  - first:
+      213: 2988021948673231737
+    second: FEET_plate_armor_shoes_19
+  - first:
+      213: -4102541177895767573
+    second: FEET_plate_armor_shoes_20
+  - first:
+      213: -7982358367658047294
+    second: FEET_plate_armor_shoes_21
+  - first:
+      213: -1140266068251519475
+    second: FEET_plate_armor_shoes_22
+  - first:
+      213: -1039928121665567295
+    second: FEET_plate_armor_shoes_23
+  - first:
+      213: -5874192042671201090
+    second: FEET_plate_armor_shoes_24
+  - first:
+      213: -8788349454968116270
+    second: FEET_plate_armor_shoes_25
+  - first:
+      213: 4438987877061564084
+    second: FEET_plate_armor_shoes_26
+  - first:
+      213: 9185366641478139292
+    second: FEET_plate_armor_shoes_27
+  - first:
+      213: -1393675270120454904
+    second: FEET_plate_armor_shoes_28
+  - first:
+      213: 2906182886076323860
+    second: FEET_plate_armor_shoes_29
+  - first:
+      213: -3686291534729258568
+    second: FEET_plate_armor_shoes_30
+  - first:
+      213: -3985727468868601700
+    second: FEET_plate_armor_shoes_31
+  - first:
+      213: 8733164203378192882
+    second: FEET_plate_armor_shoes_32
+  - first:
+      213: -1826108620925103381
+    second: FEET_plate_armor_shoes_33
+  - first:
+      213: -3022780633678746010
+    second: FEET_plate_armor_shoes_34
+  - first:
+      213: -5455582849228335795
+    second: FEET_plate_armor_shoes_35
+  - first:
+      213: 6403547682743602742
+    second: FEET_plate_armor_shoes_36
+  - first:
+      213: -7132353421128478467
+    second: FEET_plate_armor_shoes_37
+  - first:
+      213: 109372519173921017
+    second: FEET_plate_armor_shoes_38
+  - first:
+      213: -1332549046900777298
+    second: FEET_plate_armor_shoes_39
+  - first:
+      213: -6187524202443965346
+    second: FEET_plate_armor_shoes_40
+  - first:
+      213: 2946149171636955293
+    second: FEET_plate_armor_shoes_41
+  - first:
+      213: 3551865304999054531
+    second: FEET_plate_armor_shoes_42
+  - first:
+      213: 7873458137859370175
+    second: FEET_plate_armor_shoes_43
+  - first:
+      213: -3514333155728083697
+    second: FEET_plate_armor_shoes_44
+  - first:
+      213: 8984601682065746712
+    second: FEET_plate_armor_shoes_45
+  - first:
+      213: 3040886749577478711
+    second: FEET_plate_armor_shoes_46
+  - first:
+      213: 4444266793924594016
+    second: FEET_plate_armor_shoes_47
+  - first:
+      213: -3251946747918688903
+    second: FEET_plate_armor_shoes_48
+  - first:
+      213: -2264898783115928098
+    second: FEET_plate_armor_shoes_49
+  - first:
+      213: -2701381722170459781
+    second: FEET_plate_armor_shoes_50
+  - first:
+      213: -1383985245758366484
+    second: FEET_plate_armor_shoes_51
+  - first:
+      213: -1089341245570461246
+    second: FEET_plate_armor_shoes_52
+  - first:
+      213: -6557617567868709629
+    second: FEET_plate_armor_shoes_53
+  - first:
+      213: 9162005756107945091
+    second: FEET_plate_armor_shoes_54
+  - first:
+      213: 1220228108195917870
+    second: FEET_plate_armor_shoes_55
+  - first:
+      213: -9185185205952593564
+    second: FEET_plate_armor_shoes_56
+  - first:
+      213: -842010822350570696
+    second: FEET_plate_armor_shoes_57
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +214,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -61,6 +235,30 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1

@@ -5,6 +5,7 @@ using UnityEngine;
 public class MainCharacterController : MonoBehaviour
 {
     public float speed;
+    public Animator animator;
     private Rigidbody2D rigidbody2D;
 
 
@@ -17,6 +18,8 @@ public class MainCharacterController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
+        animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
