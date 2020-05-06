@@ -18,6 +18,7 @@ public class LockBehavior : MonoBehaviour
 	private Transform previousTarget;
 
 	private CameraFollow trackingBehavior;
+	private CameraShake cameraShake;
 
 	private bool isLocked = false;
 
@@ -26,6 +27,7 @@ public class LockBehavior : MonoBehaviour
     void Start()
 	{
 		trackingBehavior = camera.GetComponent<CameraFollow>();
+		cameraShake = camera.GetComponent<CameraShake>();
 	}
 
     void OnTriggerEnter2D(Collider2D other)
@@ -35,6 +37,7 @@ public class LockBehavior : MonoBehaviour
 			isLocked = true;
 			PushTarget(other.transform);
 			trackingBehavior.setZoom(zoomAmount);
+			//cameraShake.shakeCamera();
 		}
 	}
 
